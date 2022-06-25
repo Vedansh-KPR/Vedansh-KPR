@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedansh-KPR
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Python and ML
 
 
 <!---
